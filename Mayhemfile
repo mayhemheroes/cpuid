@@ -1,0 +1,5 @@
+project: rnshah9/cpuid
+target: cpuid
+
+cmds:
+  - cmd: /repo/cpuid --parse @@
