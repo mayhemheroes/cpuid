@@ -1,4 +1,4 @@
-project: rnshah9/cpuid
+project: cpuid
 target: cpuid
 
 cmds:
