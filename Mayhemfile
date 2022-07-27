@@ -1,0 +1,5 @@
+project: cpuid
+target: cpuid
+
+cmds:
+  - cmd: /install/usr/local/bin/cpuid --parse @@
