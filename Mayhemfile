@@ -2,4 +2,4 @@ project: cpuid
 target: cpuid
 
 cmds:
-  - cmd: /repo/cpuid --parse @@
+  - cmd: /install/usr/local/bin/cpuid --parse @@
